@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi👋 My name is Dhruba Das
+## Developer, Human Being.
+I am a polytechnic student and I have been learning IT programming since 2024.
+### Skills
+
+### Summary Card
+
 
 <!--
 **dhrubadas-dev/dhrubadas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
